@@ -2,7 +2,7 @@
 # Pós graduação em Engenharia de software
 ## Disciplina de Projeto e Implementação de Orientação a Objetos.
 > Aluno
-Marcos Aureliano Lima Costa
+Richard Faria Barbosa Sampaio
 
 > Objetivos
 O aluno deverá ser capaz de desenvolver um sistema que
